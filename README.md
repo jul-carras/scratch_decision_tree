@@ -2,7 +2,7 @@
 
 ### CIS678 Machine Learning
 
-###Winter 2020
+### Winter 2020
 
 1. The [main report](https://github.com/jul-carras/scratch_decision_tree/blob/master/project-3-decision_trees.ipynb) is in a python notebook.
 
